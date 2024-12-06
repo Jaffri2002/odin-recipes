@@ -1,0 +1,29 @@
+[33mcommit 8e2dfaef7baee37c2b90c6ad8f144811229ca074[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Muhammad Abbas <muabbas907@gmail.com>
+Date:   Fri Dec 6 10:13:18 2024 +0500
+
+    Link biryani.html & cake.html to index.html
+
+[33mcommit a3c8886f6de1e934c5a29dbc11678c1a0c70d61e[m
+Author: Muhammad Abbas <muabbas907@gmail.com>
+Date:   Fri Dec 6 10:05:26 2024 +0500
+
+    Fix h2 & add cake.html & biyani.html
+
+[33mcommit fab76edd2d1a70009fce8b6ce90edbb5ed4eb78b[m
+Author: Muhammad Abbas <muabbas907@gmail.com>
+Date:   Fri Dec 6 09:35:44 2024 +0500
+
+    Create index.html and lasagna.html
+
+[33mcommit 84cce7481393ccefd6d66a7c7004193851053405[m
+Author: Muhammad Abbas <muabbas907@gmail.com>
+Date:   Fri Dec 6 08:14:44 2024 +0500
+
+    Create README.md
+
+[33mcommit b7b9e402731aad67bc3124d3ff23036a47020151[m
+Author: Syed Muhammad Abbas Jaffri <muabbas907@gmail.com>
+Date:   Fri Dec 6 07:53:03 2024 +0500
+
+    Initial commit
