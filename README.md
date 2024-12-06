@@ -1,2 +1,1 @@
-# odin-recipes
-All of my TOP's projects. 
+Code for my first odin project.
